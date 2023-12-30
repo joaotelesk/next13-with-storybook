@@ -47,7 +47,6 @@ import "@/styles/globals.css"
 8 - Criei um componente chamado 'Text' como exemplo dentro da pasta 'src/components'.
 
 ```bash
-# Obs: Movi a folha de estilo que estava dentro de 'src/app' para 'src/styles'.
 export interface TextProps extends React.HTMLAttributes<HTMLSpanElement> {
   text: string
 }

@@ -7,7 +7,6 @@
 ```
 
 - Instalar o Storybook com npm ou pnpm.
-Obs: Com o Yarn, podem ocorrer alguns erros; recomendo usar um dos outros dois pacotes.
 
 ```bash
 # Obs: Com o Yarn, podem ocorrer alguns erros; recomendo usar um dos outros dois pacotes.
